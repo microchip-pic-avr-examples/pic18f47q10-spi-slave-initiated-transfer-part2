@@ -74,6 +74,7 @@ Microchip’s free MPLAB X IDE, compiler and MPLAB Code Configurator (MCC) graph
 ### Configure SPI Slave
 1.	In **Resource Management** tab > (Under Device Resources) go to **Libraries** > **Foundation Service**s > **SPISLAVE**. Add SPISLAVE by clicking on (+) button.
 The SPISLAVE library should show up in Project Resources under Peripherals.
+
 ![](https://i.imgur.com/FaIo2hL.png)
 
 
